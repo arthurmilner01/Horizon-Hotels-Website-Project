@@ -1,4 +1,4 @@
-# HorizonHotelsWebsite
+# Horizon Hotels Website Project
 How does it work?
 --
 -The database can be created using either CreateDatabase.py or you can use the database dump provided.
