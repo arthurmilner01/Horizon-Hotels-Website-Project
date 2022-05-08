@@ -3,6 +3,8 @@ How does it work?
 --
 -The database can be created using either CreateDatabase.py or you can use the database dump provided.
 
+-To connect to the database ensure the details you enter on dbfunc.py are equal to those you are using to connect to your database server.
+
 -Create an account with email ____@admin.com and any valid password to make an admin account, e.g. account with email: admin@admin.com password: admin.
 
 -To access admin functionality simply log-in with admin account, to exit admin functionality simply log-out.
